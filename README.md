@@ -2,7 +2,7 @@
 
 As a passionate software engineering major, I am constantly on the lookout for challenging opportunities to refine my programming skills and tackle real-world problems. My latest endeavor, an eCommerce store project, marks a significant milestone in my development journey. This project is designed to streamline the online shopping experience, offering users a responsive and intuitive platform to browse, search, and view products with ease.
 
-[Software Demo Video](http://youtube.link.goes.here/)
+[Software Demo Video](https://youtu.be/Ed7npYggPN8)
 
 # Development Environment
 
